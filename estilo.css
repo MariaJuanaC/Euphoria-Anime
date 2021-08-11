@@ -1,0 +1,44 @@
+
+  /*Caracteristicas del logo*/
+img {
+    border-radius: 100%;
+    box-shadow: 10px 10px 5px black;
+}
+
+/*El color que acompaña el logo*/
+header {
+    background-color: white;
+}
+h1 {
+    font-family: 'Ultra', serif;
+    position: relative;
+    display: inline-flex;
+    font-size: 3.5em;
+    color:#660000;
+    text-align: center;      }
+    
+    
+  /*Personalizacion de las listas*/
+li {
+    font-family: 'Ultra', serif;
+    color:#660000;
+    margin: 0%;
+    padding: 50px;
+    display: inline-block;    }
+
+/*El color del fondo*/
+  
+/*Para cuando el usuario toque sobre mi lista se haga el color blanco*/
+ li :hover{
+     background-color:white;
+ }
+ /*Las palabras al final de mi web*/
+ footer {
+     background-color: plum;
+     padding: 1em;
+     text-align: center;
+ }
+ 
+ 
+
+ 
